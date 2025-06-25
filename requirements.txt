@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+pdfminer.six
+pandas
+python-multipart
+requests
